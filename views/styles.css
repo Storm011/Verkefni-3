@@ -1,0 +1,16 @@
+body {
+	max-width: 50em;
+	border: 1px solid blue;
+	margin: 1em auto;
+}
+.row {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.row section{
+	border: 1px solid black;
+}
+header, footer{
+	border: 1px green;
+	
+}
