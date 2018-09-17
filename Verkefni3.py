@@ -49,8 +49,8 @@ def villa(error):
 
 
 
-run(host='localhost', port=8080, reloder=True, debug=True)
-#run(host='0.0.0.0',port=argv[1], debug=True)
+#run(host='localhost', port=8080, reloder=True, debug=True)
+run(host='0.0.0.0',port=argv[1], debug=True)
 #run(host='0.0.0.0',  port=os.ehviro.get('PORT'))
 
 
