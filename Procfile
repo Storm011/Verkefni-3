@@ -1,1 +1,1 @@
-web: python ./V02.py $PORT
+web: python ./Verkefni3.py $PORT
